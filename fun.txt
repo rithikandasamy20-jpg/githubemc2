@@ -1,2 +1,0 @@
-create fun txt 
-develop it
